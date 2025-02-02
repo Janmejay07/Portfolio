@@ -85,7 +85,7 @@ function App() {
       image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=2070"
     },
     {
-      title: " Krishi Saath",
+      title: " Krishi Saathi",
       desc: " A web-based platform promoting sustainable agriculture with the help of advanced technology.",
       tech: ["Django", "JavaScript", "HTML", "CSS"],
       image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=2070"
