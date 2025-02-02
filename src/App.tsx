@@ -227,7 +227,7 @@ function App() {
 
                 {/* Profile Image */}
                 <img
-                  src="/rishabh.jpg"
+                  src="https://drive.google.com/file/d/19Km0p0fZTJrWRyqpzD6qI4jzC2wEffyv/view?usp=drive_link"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-full border-4 border-[#00ff94] relative z-10"
                 />
