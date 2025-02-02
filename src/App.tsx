@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { motion, useScroll, useTransform, useSpring, AnimatePresence } from 'framer-motion';
 import { Code2, Database, Brain, Github, Linkedin, Mail, ExternalLink, Terminal, Cpu, Zap, Download} from 'lucide-react';
-import r from '../Public/rishabh.jpg';
 
 function App() {
   const { scrollYProgress } = useScroll();
@@ -228,7 +227,7 @@ function App() {
 
                 {/* Profile Image */}
                 <img
-                  src={r}
+                  src="https://jfc-backend.onrender.com/assets/rishabh.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-full border-4 border-[#00ff94] relative z-10"
                 />
