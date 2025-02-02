@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { motion, useScroll, useTransform, useSpring, AnimatePresence } from 'framer-motion';
 import { Code2, Database, Brain, Github, Linkedin, Mail, ExternalLink, Terminal, Cpu, Zap, Download} from 'lucide-react';
+import r from './public/rishabh.jpg';
 
 function App() {
   const { scrollYProgress } = useScroll();
@@ -227,7 +228,7 @@ function App() {
 
                 {/* Profile Image */}
                 <img
-                  src="https://drive.google.com/file/d/19Km0p0fZTJrWRyqpzD6qI4jzC2wEffyv/view?usp=drive_link"
+                  src={r}
                   alt="Profile"
                   className="w-full h-full object-cover rounded-full border-4 border-[#00ff94] relative z-10"
                 />
