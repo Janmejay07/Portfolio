@@ -227,7 +227,7 @@ function App() {
 
                 {/* Profile Image */}
                 <img
-                  src="./Public/rishabh.jpg"
+                  src="/rishabh.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-full border-4 border-[#00ff94] relative z-10"
                 />
