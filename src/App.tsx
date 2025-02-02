@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { motion, useScroll, useTransform, useSpring, AnimatePresence } from 'framer-motion';
 import { Code2, Database, Brain, Github, Linkedin, Mail, ExternalLink, Terminal, Cpu, Zap, Download} from 'lucide-react';
-import r from './public/rishabh.jpg';
+import r from '../Public/rishabh.jpg';
 
 function App() {
   const { scrollYProgress } = useScroll();
