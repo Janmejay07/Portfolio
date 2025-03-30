@@ -73,8 +73,7 @@ function App() {
   const skills = [
     { icon: <Code2 className="w-8 h-8" />, name: "Frontend", tech: ["React", "Next.js", "TypeScript"], color: "from-cyan-500 to-blue-500" },
     { icon: <Database className="w-8 h-8" />, name: "Backend", tech: ["Node.js", "Express", "MongoDB"], color: "from-green-500 to-emerald-500" },
-    { icon: <Brain className="w-8 h-8" />, name: "AI/ML", tech: ["TensorFlow", "PyTorch", "Scikit-learn"], color: "from-purple-500 to-pink-500" },
-    { icon: <Terminal className="w-8 h-8" />, name: "DevOps", tech: ["Docker", "AWS", "CI/CD"], color: "from-orange-500 to-red-500" }
+    { icon: <Brain className="w-8 h-8" />, name: "AI/ML", tech: ["TensorFlow", "PyTorch", "Scikit-learn"], color: "from-purple-500 to-pink-500" }
   ];
 
   const projects = [
