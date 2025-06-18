@@ -226,7 +226,7 @@ function App() {
 
                 {/* Profile Image */}
                 <img
-                  src="/assets/rishabh.jpg"
+                  src="https://jfc-backend.onrender.com/assets/rishabh.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-full border-4 border-[#00ff94] relative z-10"
                 />
