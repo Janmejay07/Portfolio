@@ -314,7 +314,7 @@ function App() {
                 <motion.a
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  href="https://drive.google.com/file/d/18Tn4jZC7l4KS8ENcr7RRgZvC92t134g-/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1CzIVe5tEoSZrim8Jv4D6YFRufqd0h2Sl/view?usp=drive_link"
                   download
                   className="relative group px-8 py-3"
                 >
